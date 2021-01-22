@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+    padding-bottom: 15px;
+    
+    color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 15px;
+}
+
+
+.background {
+  background-image: url('./Tomatoes.png');
+  height: 900px;
+  background-repeat: repeat;
+}
